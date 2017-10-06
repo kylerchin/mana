@@ -1,6 +1,7 @@
 pragma solidity ^0.4.11;
 
 import 'zeppelin-solidity/contracts/token/StandardToken.sol';
+import 'kylerchin/contracts/token/SOLA.sol';
 
 /**
  * @title Burnable Token
